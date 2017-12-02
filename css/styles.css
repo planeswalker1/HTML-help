@@ -10,3 +10,12 @@ body {
 img {
   width: 100%;
 }
+
+@media screen and (min-width: 961px) {
+  img {
+    width: 50%;
+  }
+  body {
+    text-align: center;
+  }
+}
