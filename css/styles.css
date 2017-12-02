@@ -6,3 +6,7 @@ body {
   margin: 0;
   line-height: 1.65;
 }
+
+img {
+  width: 100%;
+}
